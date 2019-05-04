@@ -11,3 +11,4 @@ Game consists of C# Classes, interactive Unity components (waypoint circuit, tim
 4. Hit Play button 
 
 ## Demo
+<a href="https://imgflip.com/gif/3064kv"><img src="https://i.imgflip.com/3064kv.gif" width="500" height="250"/></a>
